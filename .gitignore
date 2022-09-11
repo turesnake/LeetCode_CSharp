@@ -4,6 +4,7 @@
 /.vscode
 /build/
 /old/
+/Temp/
 
 # Visual Studio
 .vs/

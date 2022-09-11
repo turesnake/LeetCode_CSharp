@@ -4,7 +4,7 @@ using UnityEngine;
 using System.Linq;
 using System;
 
-using A;
+using TypeA;
 
 
 /*

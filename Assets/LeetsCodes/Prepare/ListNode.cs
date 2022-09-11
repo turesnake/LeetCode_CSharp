@@ -6,7 +6,7 @@ using System;
 
 
 // 以防存在别的类型的 ListNode, 所以用 namespace 来作区分;
-namespace A{
+namespace TypeA{
 
     // Definition for singly-linked list.
     public class ListNode 
