@@ -42,7 +42,9 @@ public class Main : MonoBehaviour
         //A_0069.Main();
         //A_1996.Main();
         //A_0409.Main();
-        A_0058.Main();
+        //A_0058.Main();
+
+        JZ_Offer_40.Main();
 
 
     }
