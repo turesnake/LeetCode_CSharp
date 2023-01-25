@@ -32,20 +32,7 @@ public class Main : MonoBehaviour
         // Debug.Log( "---------------\nret = " + ret );
 
         // --------------------- 0021 --------------------
-        //A_0021.Main();
-        //A_0083.Main();
-        //A_0027.Main();
-        //A_0026.Main();
-        //A_0031.Main();
-        //A_0088.Main();
-        //A_0035.Main();
-        //A_0069.Main();
-        //A_1996.Main();
-        //A_0409.Main();
-        //A_0058.Main();
-
-        JZ_Offer_40.Main();
-
+        A_15.Main();
 
     }
 
