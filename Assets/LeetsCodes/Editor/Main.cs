@@ -32,7 +32,7 @@ public class Main : MonoBehaviour
         // Debug.Log( "---------------\nret = " + ret );
 
         // --------------------- 0021 --------------------
-        A_15.Main();
+        A_1984.Main();
 
     }
 
